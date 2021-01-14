@@ -24,5 +24,9 @@
     "knex": "^0.21.15",
     "nodemon": "^2.0.7",
     "sqlite3": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-google": "^0.14.0"
   }
 }
